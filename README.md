@@ -69,8 +69,8 @@
 <h2 id="setup-and-deployment">Setup and Deployment</h2>
 
 <h3 id="1-clone-the-repository">1. Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+<pre><code>git clone https://github.com/fuglebryst/gcp-text-to-speech-terraform
+cd gcp-text-to-speech-terraform
 </code></pre>
 
 <h3 id="2-configure-gcp-authentication">2. Configure GCP Authentication</h3>
